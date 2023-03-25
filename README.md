@@ -8,7 +8,7 @@
 - 📫 How to reach me: **ronnieasatourian@gmail.com**
 
 - 📄 Resume Link: [Resume](https://tinyurl.com/RoniAsaResume)
-- ⚡ Fun fact **Pro Pianist for over 12 years and I love Indian food**
+- ⚡ Fun fact **Pro Pianist for over 12 years**
 
 
 <h3 align="left">Education: (Bachelors/Masters degree in Data Science)</h3>
