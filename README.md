@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **ronnieasatourian@gmail.com**
 
-- 📄 Resume Link: [https://tinyurl.com/RoniAsatourianResume](https://tinyurl.com/RoniAsatourianResume)
+- 📄 Resume Link: [https://tinyurl.com/RoniAsatourianResume](https://tinyurl.com/RoniAsaResume)
 
 - ⚡ Fun fact **Pro Pianist for over 12 years**
 
