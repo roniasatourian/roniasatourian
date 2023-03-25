@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Roni Asatourian Welcome to my Github</h1>
-<h3 align="center">Data-Driven Analytics Engineer Committed to Tackling Real-World Challenges</h3>
+<h1 align="center">Hi, I'm Roni Asatourian Welcome to my Github! 🧪</h1>
+<!-- <h3 align="center">Data-Driven Analytics Engineer Committed to Tackling Real-World Challenges</h3> -->
 <img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
 
 
 
-
+- 📈 Data Scientist/Engineer Intern [@NBCUniversal](https://www.nbcuniversal.com/)
 - 📫 How to reach me: **ronnieasatourian@gmail.com**
 
-- 📄 Resume Link: [https://tinyurl.com/RoniAsatourianResume](https://tinyurl.com/RoniAsaResume)
-
-- ⚡ Fun fact **Pro Pianist for over 12 years**
+- 📄 Resume Link: [Resume](https://tinyurl.com/RoniAsaResume)
+- ⚡ Fun fact **Pro Pianist for over 12 years and I love Indian food**
 
 
 <h3 align="left">Education: (Bachelors and Masters degree in Data Science)</h3>
@@ -18,10 +17,7 @@
 <a href="https://usc.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg" alt="USC" width="90" height="90"/>
 
 
-<!-- <h3 align="left">Programming Languages:</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-&nbsp;
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515" alt="R" width="35" height="35"/>  -->
+
 
 
 
