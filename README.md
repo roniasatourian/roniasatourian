@@ -11,7 +11,7 @@
 - ⚡ Fun fact **Pro Pianist for over 12 years and I love Indian food**
 
 
-<h3 align="left">Education: (Bachelors and Masters degree in Data Science)</h3>
+<h3 align="left">Education: (Bachelors/Masters degree in Data Science)</h3>
 <a href="https://uci.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/UCI_Anteaters_logo.png" alt="UCI" width="90" height="90"/>
 &nbsp;&nbsp;&nbsp;
 <a href="https://usc.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg" alt="USC" width="90" height="90"/>
