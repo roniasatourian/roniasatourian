@@ -26,4 +26,7 @@
 <a href="https://linkedin.com/in/roniasatourian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roniasatourian" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">About Me:</h3>
+<h4 align="left">I'm a versatile data expert with a deep understanding of both data engineering and data science from start to finish. My broad experience covers the entire data process, from collecting and cleaning with ETL/ELT techniques, to analyzing and interpreting results. Equipped with a solid foundation in statistical modeling and machine learning, I'm well-versed in using top tools like TensorFlow, Hadoop, Spark, SQL, and Airflow. I develop creative, comprehensive solutions that turn data into actionable insights, driving substantial business impact. My wide-ranging skills and hands-on experience in various industries enable me to tackle complex challenges, transforming raw data into a valuable strategic asset.</h4>
+  
 ![MasterHead](https://miro.medium.com/v2/resize:fit:720/1*n3FAnk_c97ptZt1YW7cEqw.gif)
