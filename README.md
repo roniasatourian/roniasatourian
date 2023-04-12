@@ -4,7 +4,7 @@
 
 
 
-- 📈 Data Scientist/Engineer Intern [@NBCUniversal](https://www.nbcuniversal.com/)
+- 📈 Data Engineer [@NBCUniversal](https://www.nbcuniversal.com/)
 - 📫 How to reach me: **ronnieasatourian@gmail.com**
 
 - 📄 Resume Link: [Resume](https://tinyurl.com/RoniAsaResume)
