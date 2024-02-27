@@ -4,7 +4,7 @@
 
 
 
-- 📈 Analytics Engineer [@NBCUniversal](https://www.nbcuniversal.com/)
+- 📈 Data Engineer [@NBCUniversal](https://www.nbcuniversal.com/)
 - 📫 How to reach me: **ronnieasatourian@gmail.com**
 - ⚡ Fun fact: **Pro Pianist for over 12 years**
 
