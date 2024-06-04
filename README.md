@@ -3,8 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
 
 
-- Senior Data Scientist [@Entravision](https://entravision.com/)
-- 📈 Ex Data Engineer [@NBCUniversal](https://www.nbcuniversal.com/)
+- 📈 Senior Data Scientist [@Entravision](https://entravision.com/)
+- 👨‍💻 Ex Data Engineer [@NBCUniversal](https://www.nbcuniversal.com/)
 - 📫 How to reach me: **ronnieasatourian@gmail.com**
 - ⚡ Fun fact: **Pro Pianist for over 12 years**
 
