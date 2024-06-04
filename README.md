@@ -4,14 +4,25 @@
 
 <div style="width: 50%;">
 
-# 💼 Experience
-- 📈 Senior Data Scientist [@Entravision](https://entravision.com/)
-- 👨‍💻 Ex Data Engineer [@NBCUniversal](https://www.nbcuniversal.com/)
+## 💼 Experience
+<ul>
+  <li>Senior Data Scientist @Entravision</li>
+  <li>Ex Data Engineer @NBCUniversal</li>
+</ul>
 
-# 🎓 Education
-<a href="https://uci.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/UCI_Anteaters_logo.png" alt="UCI" width="90" height="90"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://usc.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg" alt="USC" width="90" height="90"/></a>
+## 🎓 Education
+<ul>
+  <li>
+    <a href="https://uci.edu/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/UCI_Anteaters_logo.png" alt="UCI" width="90" height="90"/>
+    </a>
+  </li>
+  <li>
+    <a href="https://usc.edu/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg" alt="USC" width="90" height="90"/>
+    </a>
+  </li>
+</ul>
 
 </div>
 
