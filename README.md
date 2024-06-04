@@ -1,16 +1,25 @@
 <h1 align="center">Hi, I'm Roni Asatourian 👋 Welcome to my GitHub! 🧪</h1>
 <h3 align="center">Data-Driven Analytics Engineer Committed to Tackling Real-World Challenges</h3>
 
-<img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
-
-## 💼 Experience
-- 📈 Senior Data Scientist [@Entravision](https://entravision.com/)
-- 👨‍💻 Ex Data Engineer [@NBCUniversal](https://www.nbcuniversal.com/)
-
-## 🎓 Education
-<a href="https://uci.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/UCI_Anteaters_logo.png" alt="UCI" width="90" height="90"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://usc.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg" alt="USC" width="90" height="90"/></a>
+<table>
+  <tr>
+    <td>
+      <h2>💼 Experience</h2>
+      <ul>
+        <li>📈 Senior Data Scientist <a href="https://entravision.com/">@Entravision</a></li>
+        <li>👨‍💻 Ex Data Engineer <a href="https://www.nbcuniversal.com/">@NBCUniversal</a></li>
+      </ul>
+      
+      <h2>🎓 Education</h2>
+      <a href="https://uci.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/UCI_Anteaters_logo.png" alt="UCI" width="90" height="90"/></a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://usc.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg" alt="USC" width="90" height="90"/></a>
+    </td>
+    <td>
+      <img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
+    </td>
+  </tr>
+</table>
 
 ## 📫 How to Reach Me
 - 📧 Email: **ronnieasatourian@gmail.com**
