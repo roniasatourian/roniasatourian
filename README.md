@@ -10,17 +10,9 @@
 <h3 align="left">🎓 Education:</h3>
 
 <p align="left">
-  <a href="https://uci.edu/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/UCI_Anteaters_logo.png" alt="UCI" width="90" height="90"/>
-    <br>
-    Bachelor's Degree in Computer Science/Data Science
-  </a>
+  <a href="https://uci.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/UCI_Anteaters_logo.png" alt="UCI" width="90" height="90"/></a> 
   &nbsp;&nbsp;&nbsp;
-  <a href="https://usc.edu/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg" alt="USC" width="90" height="90"/>
-    <br>
-    Master of Science in Business Analytics/Data Science
-  </a>
+  <a href="https://usc.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg" alt="USC" width="90" height="90"/></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
