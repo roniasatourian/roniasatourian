@@ -2,6 +2,7 @@
 <h3 align="center">Data-Driven Analytics Engineer Committed to Tackling Real-World Challenges</h3>
 
 ## 💼 Experience
+<img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
 - 📈 Senior Data Scientist [@Entravision](https://entravision.com/)
 - 👨‍💻 Ex Data Engineer [@NBCUniversal](https://www.nbcuniversal.com/)
 
